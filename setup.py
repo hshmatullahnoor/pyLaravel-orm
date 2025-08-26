@@ -11,7 +11,7 @@ setup(
     description="A Laravel-like ORM for MySQL in Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pylaravel-orm",
+    url="https://github.com/hshmatullahnoor/pyLaravel-orm",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
