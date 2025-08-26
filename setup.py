@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pylaravel-orm",
-    version="0.1.0",
+    version="0.1.1",
     author="Meysam Afghan",
     author_email="meysamnoori010@gmail.com",
     description="A Laravel-like ORM for MySQL in Python",
